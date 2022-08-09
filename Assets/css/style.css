@@ -102,6 +102,7 @@ h2 {
   .contact-image{
     background-image: url("../Images/Contact.jpg");
     display: inline-block;
+    justify-content: right;
   }
   
   footer{
